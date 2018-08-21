@@ -6,6 +6,8 @@ layout: default
   <h1 class="h1 center">{{ page.title }}</h1>
 </div>
 
+<div class="mb2 center"><img src="{{ page.image-main}}"></div>
+
 <article class="post-content">
   {{ content }}
   <p>Casing hardcase snap-on terbuat dari plastik tebal yang siap melindungi handphone anda.</p> 
@@ -41,7 +43,7 @@ layout: default
   {% for img in gallery %}
   <div class="carousel-cell">
     <img class="carousel-cell-image"
-      data-flickity-lazyload="//drive.google.com/thumbnail?sz=w500&id={{ img.url }}" alt="{{ img.title }}" />
+      data-flickity-lazyload="//drive.google.com/thumbnail?sz=w400&id={{ img.url }}" alt="{{ img.title }}" />
     <p class="carousel-cell-title center mt2">{{ img.title }}</p>
   </div>
   {% endfor %}
@@ -60,30 +62,6 @@ layout: default
 <div class="center mt3">👇 K L I K 👇</div>
 <div class="center mt2">
   <a href="{{ site.url }}/go/wa/" class="button button-green mb2"><img src="{{ site.url }}/images/whatsapp-logo.png"> Pesan Lewat Whatsapp</a>        
-</div>
-
-<h3 class="mt3 mb3">📢 Real Testimoni</h3>
-
-<img src="{{ site.url }}/images/testi-mix.jpg" width="840">
-
-<h3 class="mb3 center" id="pesan-via-cs">Customer Service Mewlena.com</h3>
-
-<div class="clearfix col">
-  <div class="col-half">
-    <div class="mb2 center">
-      <img class="profile-picture" src="{{ site.url }}/images/cs.jpg">
-      <h2>Sano <br>WA/SMS: 0823-2222-1906</h2>
-    </div>
-  </div>
-  <div class="col-half">
-    <div class="mb2"> 
-      <p class="center">Silahkan klik tombol di bawah untuk chat WHATSAPP / SMS kami secara otomatis tanpa harus mengetik.</p>
-      <p class="center">👇 K L I K 👇</p>
-      <p class="center">
-        <a href="{{ site.url }}/go/wa/" class="button button-green mb2"><img src="{{ site.url }}/images/whatsapp-logo.png"> Whatsapp</a>
-      </p>
-    </div>
-  </div>
 </div>
 
 

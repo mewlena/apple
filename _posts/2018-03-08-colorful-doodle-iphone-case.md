@@ -1,7 +1,7 @@
 ---
 layout: produk-casinghp
 title: Colorful Doodle iPhone Case
-categories: iphone
+categories: apple
 
 # Produk
 product-title: Colorful Doodle iPhone Case

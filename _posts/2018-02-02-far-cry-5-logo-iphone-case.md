@@ -1,7 +1,7 @@
 ---
 layout: produk-casinghp
 title: Far Cry 5 Logo iPhone Case
-categories: iphone
+categories: apple
 
 # Produk
 product-title: Far Cry 5 Logo iPhone Case

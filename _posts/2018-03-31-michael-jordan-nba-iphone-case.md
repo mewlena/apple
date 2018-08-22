@@ -1,7 +1,7 @@
 ---
 layout: produk-casinghp
 title: Michael Jordan NBA iPhone Case
-categories: iphone
+categories: apple
 
 # Produk
 product-title: Michael Jordan NBA iPhone Case

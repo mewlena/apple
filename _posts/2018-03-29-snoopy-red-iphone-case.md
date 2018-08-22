@@ -1,7 +1,7 @@
 ---
 layout: produk-casinghp
 title: Snoopy Red iPhone Case
-categories: iphone
+categories: apple
 
 # Produk
 product-title: Snoopy Red iPhone Case

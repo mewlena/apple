@@ -1,7 +1,7 @@
 ---
 layout: produk-casinghp
 title: The Black Cat Marvel Comics iPhone Case
-categories: iphone
+categories: apple
 
 # Produk
 product-title: The Black Cat Marvel Comics iPhone Case

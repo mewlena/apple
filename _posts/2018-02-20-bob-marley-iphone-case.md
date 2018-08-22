@@ -1,7 +1,7 @@
 ---
 layout: produk-casinghp
 title: Bob Marley iPhone Case
-categories: iphone
+categories: apple
 
 # Produk
 product-title: Bob Marley iPhone Case

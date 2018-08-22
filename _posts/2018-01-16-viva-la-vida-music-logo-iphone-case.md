@@ -1,7 +1,7 @@
 ---
 layout: produk-casinghp
 title: Viva La Vida Music Logo iPhone Case
-categories: iphone
+categories: apple
 
 # Produk
 product-title: Viva La Vida Music Logo iPhone Case

@@ -1,7 +1,7 @@
 ---
 layout: produk-casinghp
 title: Skateboard Brand iPhone Case
-categories: iphone
+categories: apple
 
 # Produk
 product-title: Skateboard Brand iPhone Case

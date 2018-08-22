@@ -1,7 +1,7 @@
 ---
 layout: produk-casinghp
 title: Broken Kaneki Tokyo Ghoul iPhone Case
-categories: iphone
+categories: apple
 
 # Produk
 product-title: Broken Kaneki Tokyo Ghoul iPhone Case

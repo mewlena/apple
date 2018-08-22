@@ -1,7 +1,7 @@
 ---
 layout: produk-casinghp
 title: Superman Logo Comic Art iPhone Case
-categories: iphone
+categories: apple
 
 # Produk
 product-title: Superman Logo Comic Art iPhone Case

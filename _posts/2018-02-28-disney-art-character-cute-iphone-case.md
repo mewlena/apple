@@ -1,7 +1,7 @@
 ---
 layout: produk-casinghp
 title: Disney Art Character Cute iPhone Case
-categories: iphone
+categories: apple
 
 # Produk
 product-title: Disney Art Character Cute iPhone Case

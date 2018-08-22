@@ -1,7 +1,7 @@
 ---
 layout: produk-casinghp
 title: Linkin Park Cover iPhone Case
-categories: iphone
+categories: apple
 
 # Produk
 product-title: Linkin Park Cover iPhone Case

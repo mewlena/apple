@@ -1,7 +1,7 @@
 ---
 layout: produk-casinghp
 title: Super Saiyan Homer iPhone Case
-categories: iphone
+categories: apple
 
 # Produk
 product-title: Super Saiyan Homer iPhone Case

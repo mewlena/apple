@@ -1,7 +1,7 @@
 ---
 layout: produk-casinghp
 title: Re ZERO Starting Life In Another World iPhone Case
-categories: iphone
+categories: apple
 
 # Produk
 product-title: Re ZERO Starting Life In Another World iPhone Case

@@ -1,7 +1,7 @@
 ---
 layout: produk-casinghp
 title: Bleach Ulquiorra Cifer1 iPhone Case
-categories: iphone
+categories: apple
 
 # Produk
 product-title: Bleach Ulquiorra Cifer1 iPhone Case

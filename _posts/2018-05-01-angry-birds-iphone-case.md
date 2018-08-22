@@ -1,7 +1,7 @@
 ---
 layout: produk-casinghp
 title: Angry Birds iPhone Case
-categories: iphone
+categories: apple
 
 # Produk
 product-title: Angry Birds iPhone Case

@@ -1,7 +1,7 @@
 ---
 layout: produk-casinghp
 title: Young Dolph Gelato iPhone Case
-categories: iphone
+categories: apple
 
 # Produk
 product-title: Young Dolph Gelato iPhone Case

@@ -1,7 +1,7 @@
 ---
 layout: produk-casinghp
 title: Kanye West Cover Album iPhone Case
-categories: iphone
+categories: apple
 
 # Produk
 product-title: Kanye West Cover Album iPhone Case

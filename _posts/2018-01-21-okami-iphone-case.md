@@ -1,7 +1,7 @@
 ---
 layout: produk-casinghp
 title: Okami iPhone Case
-categories: iphone
+categories: apple
 
 # Produk
 product-title: Okami iPhone Case

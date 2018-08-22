@@ -1,7 +1,7 @@
 ---
 layout: produk-casinghp
 title: The Legend of Zelda 2 iPhone Case
-categories: iphone
+categories: apple
 
 # Produk
 product-title: The Legend of Zelda 2 iPhone Case
